@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "color-convert": "^1.9.1",
     "delta-e": "^0.0.7",
     "wcag-contrast": "^0.1.1"
   },
